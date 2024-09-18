@@ -70,3 +70,18 @@ export POPM_BFG_URL=wss://testnet.rpc.hemi.network/v1/ws/public
 ```
 - Output
 
+![image](https://github.com/user-attachments/assets/172902fd-c9c6-4d7d-bc0f-e179ffd92c95)
+
+## Screen settings
+- Once running use: CTRL A D (to detach from screen)
+- To Check the screen again use :
+```bash
+screen -r hemi
+```
+
+---
+- Check status : [Miner_Status](https://testnet.popstats.hemi.network/)
+
+- Done !! Feel free to ask queries in telegram channel
+- Telegram - https://t.me/colonyairdrops
+- Youtube - https://www.youtube.com/@ColonyAirdrops
