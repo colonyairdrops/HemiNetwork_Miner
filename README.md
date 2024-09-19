@@ -10,6 +10,13 @@
 
 - Now Follow commands
 ```bash
+mkdir hemi-miner
+```
+```bash
+cd hemi-miner
+```
+  
+```bash
 sudo apt update && sudo apt upgrade -y
 ```
 ```bash
@@ -17,12 +24,6 @@ sudo apt install screen
 ```
 ```bash
 screen -S hemi
-```
-```bash
-mkdir hemi-miner
-```
-```bash
-cd hemi-miner
 ```
 ```bash
 tar xvf heminetwork_v0.4.3_linux_amd64.tar.gz
