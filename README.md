@@ -71,7 +71,7 @@ export POPM_BFG_URL=wss://testnet.rpc.hemi.network/v1/ws/public
 4. Look at the "sat/vB" numbers for the different transaction fee priorities. It is recommended to set the value to the "High Priority" value or slightly higher.
 5. Re-run the command to set the POPM_STATIC_FEE environment variable from above each time you want to change the fee, and restart the PoP Miner afterwards.
 
-## 5. Run the Miner
+## 6. Run the Miner
 ```bash
 ./popmd
 ```
@@ -79,7 +79,7 @@ export POPM_BFG_URL=wss://testnet.rpc.hemi.network/v1/ws/public
 
 ![image](https://github.com/user-attachments/assets/172902fd-c9c6-4d7d-bc0f-e179ffd92c95)
 
-## Screen settings
+## 7. Screen settings
 - Once running use: CTRL A D (to detach from screen)
 - To Check the screen again use :
 ```bash
