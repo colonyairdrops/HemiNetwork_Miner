@@ -19,6 +19,9 @@ sudo apt install screen
 screen -S hemi
 ```
 ```bash
+mkdir hemi-miner
+```
+```bash
 tar xvf heminetwork_v0.4.3_linux_amd64.tar.gz
 ```
 ```bash
