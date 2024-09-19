@@ -4,7 +4,7 @@
 - Watch Video to understand better
 
 ## 1. Binaries
-- Visit [binaries](https://docs.hemi.xyz/how-to-tutorials/tutorials/setup-part-1)
+- Visit [binaries](https://github.com/hemilabs/heminetwork/releases)
 - Download (heminetwork_v0.4.3_linux_amd64.tar.gz) file
 - Use Termius and copy the file to your VPS
 
@@ -20,6 +20,9 @@ screen -S hemi
 ```
 ```bash
 mkdir hemi-miner
+```
+```bash
+cd hemi-miner
 ```
 ```bash
 tar xvf heminetwork_v0.4.3_linux_amd64.tar.gz
