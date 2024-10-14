@@ -1,7 +1,7 @@
 # HemiNetwork_Miner by @ColonyAirdrops
 ---
 - Offical Docs - [Hemi_Miner_CLI](https://docs.hemi.xyz/how-to-tutorials/tutorials/setup-part-1)
-- Watch Video - [Youtube](https://youtu.be/Cu3D6CQ85T4)
+- Watch Video - [Youtube](https://youtu.be/SDsC3CCBIW0)
 
 ## 1. Binaries
 - Visit [binaries](https://github.com/hemilabs/heminetwork/releases)
