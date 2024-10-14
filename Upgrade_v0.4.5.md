@@ -1,4 +1,4 @@
-# HemiNetwork_Miner by @ColonyAirdrops
+# HemiNetwork_Miner Upgrade to v0.4.5 by @ColonyAirdrops
 ---
 - Offical Docs - [Hemi_Miner_CLI](https://docs.hemi.xyz/how-to-tutorials/tutorials/setup-part-1)
 - Watch Video - [Youtube](https://youtu.be/SDsC3CCBIW0)
